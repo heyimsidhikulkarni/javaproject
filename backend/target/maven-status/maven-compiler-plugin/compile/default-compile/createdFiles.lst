@@ -1,0 +1,10 @@
+com\fooddelivery\entity\FoodItem.class
+com\fooddelivery\entity\User.class
+com\fooddelivery\controller\FoodItemController.class
+com\fooddelivery\repository\FoodItemRepository.class
+com\fooddelivery\controller\OrderController.class
+com\fooddelivery\FoodDeliveryApplication.class
+com\fooddelivery\repository\OrderRepository.class
+com\fooddelivery\repository\UserRepository.class
+com\fooddelivery\controller\UserController.class
+com\fooddelivery\entity\Order.class

@@ -1,0 +1,6 @@
+@echo off
+echo Compiling Java files...
+javac -cp "." -d . src/main/java/com/fooddelivery/*.java src/main/java/com/fooddelivery/entity/*.java src/main/java/com/fooddelivery/repository/*.java src/main/java/com/fooddelivery/controller/*.java
+
+echo Starting Spring Boot application...
+java -cp "." com.fooddelivery.FoodDeliveryApplication
